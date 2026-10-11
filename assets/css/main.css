@@ -81,12 +81,12 @@ input, select, textarea {
 	}
 
 	body {
-		background: #fff;
-		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 19pt;
-		font-weight: 300;
+		background: #1c1a22;
+		font-family: 'Inter', sans-serif;
+		font-size: 22pt;
+		font-weight: 500;
 		line-height: 1.75em;
-		color: #888;
+		color: #e2e2e2;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -105,12 +105,12 @@ input, select, textarea {
 		font-size: 22pt;
 		font-weight: 500;
 		line-height: 1.75em;
-		color: #fff;
+		color: #d1d1d1;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #e0e0e0;
+		color: #d1d1d1;
 		line-height: 1.5em;
 	}
 
@@ -120,7 +120,7 @@ input, select, textarea {
 	}
 
 		h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
-			color: #333;
+			color: #ececec;
 		}
 
 	h2 {
@@ -129,11 +129,11 @@ input, select, textarea {
 	}
 
 		h2.alt {
-			color: #888;
+			color: #fff;
 		}
 
 			h2.alt strong {
-				color: #666;
+				color: #fff;
 			}
 
 	h3 {
@@ -154,7 +154,7 @@ input, select, textarea {
 
 	strong, b {
 		font-weight: 300;
-		color: #666;
+		color: #ececec;
 	}
 
 	em, i {
