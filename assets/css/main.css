@@ -81,7 +81,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #1c1a22;
+		background-color: #1c1a22;
 		font-family: 'Inter', sans-serif;
 		font-size: 22pt;
 		font-weight: 500;
@@ -105,12 +105,12 @@ input, select, textarea {
 		font-size: 22pt;
 		font-weight: 500;
 		line-height: 1.75em;
-		color: #d1d1d1;
+		color: #c2c2c2;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #d1d1d1;
+		color: #c2c2c2;
 		line-height: 1.5em;
 	}
 
@@ -120,7 +120,7 @@ input, select, textarea {
 	}
 
 		h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
-			color: #ececec;
+			color: #dfdede;
 		}
 
 	h2 {
@@ -129,7 +129,7 @@ input, select, textarea {
 	}
 
 		h2.alt {
-			color: #fff;
+			color: #f1f1f1;
 		}
 
 			h2.alt strong {
@@ -2245,20 +2245,19 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #81918E;
-				background-image: url("../../images/banner.png");
+				background-color: #1c1a22;
 			}
 
 			#main > section.two {
-				background-color: #f5fafa;
+				background-color: #1c1a22;
 			}
 
 			#main > section.three {
-				background-color: #ecf1f1;
+				background-color: #1c1a22;
 			}
 
 			#main > section.four {
-				background-color: #e8edec;
+				background-color: #1c1a22;
 			}
 
 /* Wide */
