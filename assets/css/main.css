@@ -2246,7 +2246,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #1c1a22;
-				background-image: url("../../images/banner.png");
+				background-image: url("../images/banner.png");
 			}
 
 			#main > section.two {
