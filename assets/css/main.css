@@ -133,7 +133,7 @@ input, select, textarea {
 		}
 
 			h2.alt strong {
-				color: #fff;
+				color: #ececec;
 			}
 
 	h3 {
@@ -2227,7 +2227,7 @@ input, select, textarea {
 				}
 
 				#main > section.dark strong {
-					color: #141218;
+					color: #ececec;
 					border-color: inherit;
 				}
 
@@ -2582,11 +2582,11 @@ input, select, textarea {
 		/* Левое меню и основной контент */
 
 			#header {
-				width: 200px !important;    /* Уменьшаем ширину боковины до 200px */
+				width: 240px !important;    /* Уменьшаем ширину боковины до 200px */
 			}
 
 			#main {
-				margin-left: 200px !important; /* Сдвигаем контент влево, чтобы не было пустых полей */
+				margin-left: 240px !important; /* Сдвигаем контент влево, чтобы не было пустых полей */
 			}
 
 		/* Basic */
