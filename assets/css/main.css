@@ -1848,6 +1848,7 @@ input, select, textarea {
 	form textarea {
 		position: relative;
 		-webkit-appearance: none;
+		appearance: none;
 		display: block;
 		border: 0;
 		outline: 0;
@@ -1985,7 +1986,7 @@ input, select, textarea {
 	}
 
 		.item header {
-			background: #fff;
+			background: #1c1a22;
 			margin: 0;
 			padding: 1em 0 1em 0;
 			font-size: 0.8em;
@@ -1993,6 +1994,7 @@ input, select, textarea {
 
 			.item header h3 {
 				font-size: 1em;
+				color: #fff;
 			}
 
 /* Icons */
@@ -2227,7 +2229,7 @@ input, select, textarea {
 				}
 
 				#main > section.dark strong {
-					color: #ececec;
+					color: #121114;
 					border-color: inherit;
 				}
 
@@ -2244,6 +2246,7 @@ input, select, textarea {
 				padding: 10em 0;
 				background-size: cover;
 				background-position: center center;
+				color: #141218;
 			}
 
 			#main > section.one {
