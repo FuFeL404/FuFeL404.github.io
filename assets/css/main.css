@@ -2247,6 +2247,11 @@ input, select, textarea {
 				background-size: cover;
 				background-position: center center;
 				color: #F5F5F0;
+				text-shadow: 
+				-2px -2px 0 #1c1a22,
+				2px -2px 0 #1c1a22,
+				-2px  2px 0 #1c1a22,
+				2px  2px 0 #1c1a22;
 			}
 
 			#main > section.one {
