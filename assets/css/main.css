@@ -2233,14 +2233,20 @@ input, select, textarea {
 					border-color: inherit;
 				}
 
-				#main > section.dark a {
-					color: #F5F5F0;
-					border-color: inherit;
-				}
+			#main > section.dark a {
+				color: #F5F5F0;
+				border-color: inherit;
+				text-shadow: none !important;
+			}
 
-					#main > section.dark a:hover {
-						border-bottom-color: rgba(255, 255, 255, 0);
-					}
+			#main > section.dark a:hover {
+				border-bottom-color: rgba(255, 255, 255, 0);
+			}
+
+			#main > section.dark .button,
+			#main > section.dark button {
+				text-shadow: none !important;
+			}
 
 			#main > section.cover {
 				padding: 10em 0;
